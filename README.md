@@ -18,3 +18,6 @@ Configure:
 Notes
 - The wallet address is mine and not use anymore. so I leaved it in the code
 - I'm done with ZPOOL, so this project will have no update in the future
+
+The page will look like this
+![alt text](https://github.com/eewar/zpool-php-api/blob/main/php-zpool-api.PNG?raw=true)
